@@ -8,10 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AshimDebnath747](https://github.com/AshimDebnath747)
 
 - 📫 How to reach me **ashimdebnath6767@gmail.com**
- <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNxMDRuM3FuMWpvZG1mazhybzN3a3Nja2ZiY2JvcHMxcjNybjg4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" width="100"/>
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNxMDRuM3FuMWpvZG1mazhybzN3a3Nja2ZiY2JvcHMxcjNybjg4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashim debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim debnath" height="30" width="40" /></a>

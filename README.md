@@ -25,7 +25,7 @@
 ---
 ### :fire: My Stats : <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshimDebnath747)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=AshimDebnath747&theme=dark&hide_border=false)<br/>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDebnath747&layout=pie&theme=dark)](https://github.com/AshimDebnath747/github-readme-stats)

@@ -24,6 +24,6 @@
 
 ---
 ### :fire: My Stats : <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AshimDebnath747)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshimDebnath747&theme=dark)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDebnath747&layout=pie&theme=dark)](https://github.com/AshimDebnath747/github-readme-stats)

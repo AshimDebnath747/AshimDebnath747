@@ -24,8 +24,8 @@
 
 ---
 ### :fire: My Stats : <br>
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AshimDebnath747" alt="GitHub Streak" />
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshimDebnath747)](https://git.io/streak-stats)
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshimDebnath747&layout=pie&theme=dark)](https://github.com/AshimDebnath747/github-readme-stats)

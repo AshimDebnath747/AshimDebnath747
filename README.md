@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashim Debnath</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 🔭 I’m currently working on [Blood Bank Management System]([https://github.com/AshimDebnath747/socius](https://github.com/AshimDebnath747/socius))
+- 🔭 I’m currently working on [Socius - a platform to get help anf help people to build a wholesome society that actually socializes!]([https://github.com/AshimDebnath747/socius](https://github.com/AshimDebnath747/socius))
 
 - 🌱 I’m currently learning **React.js , Node.js**
 
